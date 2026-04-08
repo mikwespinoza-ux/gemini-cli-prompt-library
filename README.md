@@ -1,6 +1,8 @@
 # 📚 Prompt Library - Gemini CLI Extension
 
-A curated library of high-quality, professionally crafted prompts for common development tasks. Save time and improve your AI interactions with battle-tested prompt templates.
+A curated library of high-quality, professionally crafted prompts for common
+development tasks. Save time and improve your AI interactions with
+battle-tested prompt templates.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-Extension-blue)](https://geminicli.com/)
@@ -144,7 +146,8 @@ function loginUser(username, password) {
 "
 ```
 
-**Output:** Comprehensive security analysis identifying SQL injection vulnerability, authentication issues, and providing secure code examples.
+**Output:** Comprehensive security analysis identifying SQL injection
+vulnerability, authentication issues, and providing secure code examples.
 
 ### Generate Unit Tests
 
@@ -156,7 +159,7 @@ function calculateDiscount(price, discountPercent) {
 "
 ```
 
-**Output:** Complete test suite with happy paths, edge cases, boundary values, and error conditions.
+**Output:** Complete test suite with happy paths, edge cases, and error conditions.
 
 ### Explain Concept
 
@@ -164,7 +167,8 @@ function calculateDiscount(price, discountPercent) {
 /learning:explain-concept "closures in JavaScript"
 ```
 
-**Output:** Multi-level explanation from ELI5 to technical details, with examples, use cases, and best practices.
+**Output:** Multi-level explanation from ELI5 to technical details, with
+examples, use cases, and best practices.
 
 ### Design API
 
@@ -172,7 +176,8 @@ function calculateDiscount(price, discountPercent) {
 /architecture:design-api "A blog platform with posts, comments, users, and tags"
 ```
 
-**Output:** Complete REST API design with endpoints, data models, authentication, and OpenAPI documentation.
+**Output:** Complete REST API design with endpoints, data models, auth, and
+OpenAPI documentation.
 
 ## 🎯 Why Use This Extension?
 
@@ -233,9 +238,10 @@ Based on the prompts in this library, here are key principles:
 
 ### 1. **Be Specific**
 
-```
+```text
 ❌ "Review this code"
-✅ "Perform a security analysis focusing on input validation, SQL injection, and XSS vulnerabilities"
+✅ "Perform a security analysis focusing on input validation, SQL
+injection, and XSS vulnerabilities"
 ```
 
 ### 2. **Provide Structure**
@@ -316,10 +322,10 @@ Forked from: <https://github.com/harish-garg/gemini-cli-prompt-library>
 
 Harish Garg. <https://github.com/harish-garg>
 
-His blog [here](https://harishgarg.com/).
+His blog at [harishgarg.com](https://harishgarg.com/).
 
 ---
 
-**Made with ❤️ for the Gemini CLI community**
+## Made with ❤️ for the Gemini CLI community
 
 Star ⭐ this repo if you find it useful!
